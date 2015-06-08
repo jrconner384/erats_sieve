@@ -6,6 +6,7 @@ rvm:
 script:
   - gem install simplecov
   - gem install coveralls
+  - gem install open_integer --source https://repo.fury.io/jrconner384/
   - rake test
 
 deploy:
