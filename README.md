@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/jrconner384/erats_sieve.svg?branch=master)](https://travis-ci.org/jrconner384/erats_sieve)
+[![Build Status](https://travis-ci.org/jrconner384/erats_sieve.svg?branch=CI)](https://travis-ci.org/jrconner384/erats_sieve)
 [![Inline docs](http://inch-ci.org/github/jrconner384/erats_sieve.svg?branch=master)](http://inch-ci.org/github/jrconner384/erats_sieve)
-[![Coverage Status](https://coveralls.io/repos/jrconner384/erats_sieve/badge.svg?branch=open_CI)](https://coveralls.io/r/jrconner384/erats_sieve?branch=CI)
+[![Coverage Status](https://coveralls.io/repos/jrconner384/erats_sieve/badge.svg?branch=CI)](https://coveralls.io/r/jrconner384/erats_sieve?branch=CI)
 EratsSieve
 ==========
 EratsSieve is a pure Ruby implementation of the sieve of Eratosthenes, a prime number sieve.
