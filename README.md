@@ -26,5 +26,7 @@ This is a big step for this project. I'm wiring this up with Travis-CI and Cover
 Thanks
 ------
 [Travis-CI](https://travis-ci.org) - The excellent CI service.
+
 [Coveralls](https://coveralls.io) - For running my test suites after each push.
+
 [MiniTest](https://github.com/seattlerb/minitest) - An excellent Ruby test framework.
